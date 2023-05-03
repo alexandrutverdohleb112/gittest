@@ -1,4 +1,10 @@
 body {
-    background-color: aqua;
-    
+    background-color: aqua;    
+}
+p {
+    color: black;
+}
+h1 {
+    color: brown;
+    font-size: x-large;
 }
